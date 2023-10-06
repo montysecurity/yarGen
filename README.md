@@ -1,5 +1,3 @@
-[![Actively Maintained](https://img.shields.io/badge/Maintenance%20Level-Actively%20Maintained-green.svg)](https://gist.github.com/cheerfulstoic/d107229326a01ff0f333a1d3476e068d)
-
 # yarGen
                        _____
         __ _____ _____/ ___/__ ___
@@ -10,6 +8,10 @@
     
       Note: Rules have to be post-processed
       See this post for details: https://medium.com/@cyb3rops/121d29322282
+
+## Changes from Fork
+
+- Do not verify SSL check for `--update` repos
 
 ### What does yarGen do?
 
